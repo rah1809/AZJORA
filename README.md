@@ -1,3 +1,4 @@
+
 # AZJORA
 # greet.py
 
@@ -8,6 +9,7 @@ def greet(name):
 if __name__ == "__main__":
     user_name = "Your Name"  # Replace "Your Name" with your actual name
     print(greet(user_name))
+
 import random
 
 # List of random quotes
